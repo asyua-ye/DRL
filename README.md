@@ -29,5 +29,16 @@
 
 
 
+## 配置要求：
+- d4rl(if offline)
+- mujoco-py    2.1.2.14  (if offline)
+- numpy        1.26.4
+- torch        2.0.0
+- gym          0.23.1
+- mujoco       3.1.3
+- tensorboard  2.16.2
+
+
+
 
 
