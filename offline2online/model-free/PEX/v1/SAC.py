@@ -15,7 +15,7 @@ from typing import Callable,List
 @dataclass
 class Hyperparameters:
     # Generic
-    batch_size: int = 128
+    batch_size: int = 1024
     buffer_size: int = int(1e6)
     discount: float = 0.99
     tau:float = 5e-3
